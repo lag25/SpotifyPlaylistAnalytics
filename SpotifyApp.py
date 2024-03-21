@@ -6,8 +6,8 @@ from datetime import datetime
 from collections import defaultdict
 
 # Spotify API credentials
-CLIENT_ID = 'd19a543944aa42428033b5195bd80a16'
-CLIENT_SECRET = '665d6ca252f148dfba5ab2b05e1d9fe7'
+CLIENT_ID = 'INSERT CLIENT ID HERE'
+CLIENT_SECRET = 'INSERT CLIENT SECRET'
 
 
 # Function to authenticate with the Spotify API
